@@ -1,0 +1,6 @@
+Feedforward Numbers:
+	kS			0.152
+	kV			0.722
+	kA			0.0719
+	r-squared	0.999
+	TrackWidth	2.3900506827037105
